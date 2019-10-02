@@ -1,0 +1,25 @@
+.index {
+	width: 600px;
+	position: relative;
+	margin: 35px auto;
+}
+.index h3 {
+	display: inline;
+	position: absolute;
+	padding-left: 20px;
+
+}
+.index a {
+	text-decoration-line: none;
+
+}
+.detail {
+	width: 800px;
+	margin: 40px auto;
+
+}
+.detail span {
+	display: block;
+	padding-top: 20px;
+	
+}
